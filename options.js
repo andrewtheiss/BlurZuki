@@ -1,0 +1,1 @@
+alert('No options currently available for this extension...')
